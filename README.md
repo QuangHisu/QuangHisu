@@ -39,7 +39,7 @@ Object-Oriented Programming (OOP) · Data Structures · REST APIs · Database Sy
 ## 📫 Connect With Me
 
 - 📧 **Email:** [quanghieu22092005@gmail.com](mailto:quanghieu22092005@gmail.com)
-- 💼 **LinkedIn:** [Add LinkedIn profile](https://www.linkedin.com/in/hieu-nguyen-7a2444325/)
+- 💼 **LinkedIn:** [Hieu Nguyen](https://www.linkedin.com/in/hieu-nguyen-7a2444325/)
 
 ---
 
